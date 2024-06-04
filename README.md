@@ -1,1 +1,1 @@
-# Hotel-Reservation-Analysis-using-MySQL-SQL-
+# Hotel-Reservation-Analysis-using-MySQL(SQL)
