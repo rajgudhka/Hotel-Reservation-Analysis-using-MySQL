@@ -2,6 +2,7 @@
 
 ![image](https://github.com/rajgudhka/Hotel-Reservation-Analysis-using-MySQL/assets/167026479/feb229b2-3d26-4722-a6ee-9817f1f4b36c)
 
+https://docs.google.com/presentation/d/17Lvpopv0DV6XisWC2WveWCPqFNfFPV4yLL9wY7l1G_U/edit#slide=id.p4
 
 #Insights
 There are 700 reservations in the dataset.
