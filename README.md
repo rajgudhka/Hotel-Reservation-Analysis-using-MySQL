@@ -2,9 +2,11 @@
 
 ![image](https://github.com/rajgudhka/Hotel-Reservation-Analysis-using-MySQL/assets/167026479/feb229b2-3d26-4722-a6ee-9817f1f4b36c)
 
+15 Insightful Questions answered about the project:-
 https://docs.google.com/presentation/d/17Lvpopv0DV6XisWC2WveWCPqFNfFPV4yLL9wY7l1G_U/edit#slide=id.p4
 
-#Insights
+# Insights
+
 There are 700 reservations in the dataset.
 
 Meal Plan 1 stands out as the most popular choice among guests.
@@ -39,7 +41,7 @@ For reservations involving children, Room Type 1 is the preferred choice, with a
 
 Online bookings generate the highest average room price, reaching 112.46.
 
-#Recommendations:-
+# Recommendations:-
 Implement targeted promotions for Room Type 1 to capitalize on its popularity.
 
 Tailor marketing strategies to attract online bookings, the most prevalent segment.
