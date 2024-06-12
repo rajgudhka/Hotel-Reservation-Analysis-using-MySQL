@@ -1,7 +1,9 @@
 # Hotel-Reservation-Analysis-using-MySQL(SQL)
 
 There are 700 reservations in the dataset.
+
 Meal Plan 1 stands out as the most popular choice among guests.
+
 Reservations involving children have an average room price of 144.6.
 In 2017, there were 123 reservations. Subsequently, in 2018, there was a notable increase in reservations, indicating positive growth.
 Room Type 1 is the preferred choice for bookings.
